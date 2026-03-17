@@ -1,5 +1,46 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/x-biosignal/x-biosignal.r-universe.dev
 	branch = HEAD
+[submodule "PhysioAnalysis"]
+	path = PhysioAnalysis
+	url = https://github.com/x-biosignal/PhysioAnalysis
+[submodule "PhysioAnnotationHub"]
+	path = PhysioAnnotationHub
+	url = https://github.com/x-biosignal/PhysioAnnotationHub
+[submodule "PhysioCore"]
+	path = PhysioCore
+	url = https://github.com/x-biosignal/PhysioCore
+[submodule "PhysioCrossModal"]
+	path = PhysioCrossModal
+	url = https://github.com/x-biosignal/PhysioCrossModal
+[submodule "PhysioECG"]
+	path = PhysioECG
+	url = https://github.com/x-biosignal/PhysioECG
+[submodule "PhysioEDA"]
+	path = PhysioEDA
+	url = https://github.com/x-biosignal/PhysioEDA
+[submodule "PhysioEEG"]
+	path = PhysioEEG
+	url = https://github.com/x-biosignal/PhysioEEG
+[submodule "PhysioEMG"]
+	path = PhysioEMG
+	url = https://github.com/x-biosignal/PhysioEMG
+[submodule "PhysioExperiment"]
+	path = PhysioExperiment
+	url = https://github.com/x-biosignal/PhysioExperiment
+[submodule "PhysioIO"]
+	path = PhysioIO
+	url = https://github.com/x-biosignal/PhysioIO
+[submodule "PhysioMSKNet"]
+	path = PhysioMSKNet
+	url = https://github.com/x-biosignal/PhysioMSKNet
+[submodule "PhysioMoCap"]
+	path = PhysioMoCap
+	url = https://github.com/x-biosignal/PhysioMoCap
+[submodule "PhysioOpenSim"]
+	path = PhysioOpenSim
+	url = https://github.com/x-biosignal/PhysioOpenSim
+[submodule "PhysioPreprocess"]
+	path = PhysioPreprocess
+	url = https://github.com/x-biosignal/PhysioPreprocess
