@@ -8,12 +8,24 @@
 [submodule "PhysioAnnotationHub"]
 	path = PhysioAnnotationHub
 	url = https://github.com/x-biosignal/PhysioAnnotationHub
+[submodule "PhysioClinStats"]
+	path = PhysioClinStats
+	url = https://github.com/x-biosignal/PhysioClinStats
+[submodule "PhysioClinical"]
+	path = PhysioClinical
+	url = https://github.com/x-biosignal/PhysioClinical
+[submodule "PhysioCompliance"]
+	path = PhysioCompliance
+	url = https://github.com/x-biosignal/PhysioCompliance
 [submodule "PhysioCore"]
 	path = PhysioCore
 	url = https://github.com/x-biosignal/PhysioCore
 [submodule "PhysioCrossModal"]
 	path = PhysioCrossModal
 	url = https://github.com/x-biosignal/PhysioCrossModal
+[submodule "PhysioDevices"]
+	path = PhysioDevices
+	url = https://github.com/x-biosignal/PhysioDevices
 [submodule "PhysioECG"]
 	path = PhysioECG
 	url = https://github.com/x-biosignal/PhysioECG
@@ -29,18 +41,48 @@
 [submodule "PhysioExperiment"]
 	path = PhysioExperiment
 	url = https://github.com/x-biosignal/PhysioExperiment
+[submodule "PhysioGaitNorm"]
+	path = PhysioGaitNorm
+	url = https://github.com/x-biosignal/PhysioGaitNorm
+[submodule "PhysioHDEMG"]
+	path = PhysioHDEMG
+	url = https://github.com/x-biosignal/PhysioHDEMG
+[submodule "PhysioHeadModels"]
+	path = PhysioHeadModels
+	url = https://github.com/x-biosignal/PhysioHeadModels
 [submodule "PhysioIO"]
 	path = PhysioIO
 	url = https://github.com/x-biosignal/PhysioIO
+[submodule "PhysioML"]
+	path = PhysioML
+	url = https://github.com/x-biosignal/PhysioML
 [submodule "PhysioMSKNet"]
 	path = PhysioMSKNet
 	url = https://github.com/x-biosignal/PhysioMSKNet
 [submodule "PhysioMoCap"]
 	path = PhysioMoCap
 	url = https://github.com/x-biosignal/PhysioMoCap
+[submodule "PhysioNIRS"]
+	path = PhysioNIRS
+	url = https://github.com/x-biosignal/PhysioNIRS
+[submodule "PhysioNeurophys"]
+	path = PhysioNeurophys
+	url = https://github.com/x-biosignal/PhysioNeurophys
 [submodule "PhysioOpenSim"]
 	path = PhysioOpenSim
 	url = https://github.com/x-biosignal/PhysioOpenSim
 [submodule "PhysioPreprocess"]
 	path = PhysioPreprocess
 	url = https://github.com/x-biosignal/PhysioPreprocess
+[submodule "PhysioReport"]
+	path = PhysioReport
+	url = https://github.com/x-biosignal/PhysioReport
+[submodule "PhysioStream"]
+	path = PhysioStream
+	url = https://github.com/x-biosignal/PhysioStream
+[submodule "PhysioTrial"]
+	path = PhysioTrial
+	url = https://github.com/x-biosignal/PhysioTrial
+[submodule "PhysioWearable"]
+	path = PhysioWearable
+	url = https://github.com/x-biosignal/PhysioWearable
