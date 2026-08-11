@@ -77,6 +77,9 @@
 [submodule "PhysioPreprocess"]
 	path = PhysioPreprocess
 	url = https://github.com/x-biosignal/PhysioPreprocess
+[submodule "PhysioRecipes"]
+	path = PhysioRecipes
+	url = https://github.com/x-biosignal/PhysioRecipes
 [submodule "PhysioReport"]
 	path = PhysioReport
 	url = https://github.com/x-biosignal/PhysioReport
