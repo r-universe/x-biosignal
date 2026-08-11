@@ -53,6 +53,9 @@
 [submodule "PhysioIO"]
 	path = PhysioIO
 	url = https://github.com/x-biosignal/PhysioIO
+[submodule "PhysioLake"]
+	path = PhysioLake
+	url = https://github.com/x-biosignal/PhysioLake
 [submodule "PhysioML"]
 	path = PhysioML
 	url = https://github.com/x-biosignal/PhysioML
