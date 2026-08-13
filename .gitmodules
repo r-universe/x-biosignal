@@ -68,6 +68,9 @@
 [submodule "PhysioNIRS"]
 	path = PhysioNIRS
 	url = https://github.com/x-biosignal/PhysioNIRS
+[submodule "PhysioNetPhysiology"]
+	path = PhysioNetPhysiology
+	url = https://github.com/x-biosignal/PhysioNetPhysiology
 [submodule "PhysioNeurophys"]
 	path = PhysioNeurophys
 	url = https://github.com/x-biosignal/PhysioNeurophys
