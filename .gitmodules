@@ -77,6 +77,9 @@
 [submodule "PhysioOpenSim"]
 	path = PhysioOpenSim
 	url = https://github.com/x-biosignal/PhysioOpenSim
+[submodule "PhysioPipe"]
+	path = PhysioPipe
+	url = https://github.com/x-biosignal/PhysioPipe
 [submodule "PhysioPreprocess"]
 	path = PhysioPreprocess
 	url = https://github.com/x-biosignal/PhysioPreprocess
@@ -98,3 +101,6 @@
 [submodule "PoseFixeR"]
 	path = PoseFixeR
 	url = https://github.com/x-biosignal/PoseFixeR
+[submodule "synergyMixR"]
+	path = synergyMixR
+	url = https://github.com/x-biosignal/synergyMixR
