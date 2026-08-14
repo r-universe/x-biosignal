@@ -95,3 +95,6 @@
 [submodule "PhysioWearable"]
 	path = PhysioWearable
 	url = https://github.com/x-biosignal/PhysioWearable
+[submodule "PoseFixeR"]
+	path = PoseFixeR
+	url = https://github.com/x-biosignal/PoseFixeR
