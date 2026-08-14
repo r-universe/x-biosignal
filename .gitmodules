@@ -8,6 +8,9 @@
 [submodule "PhysioAnnotationHub"]
 	path = PhysioAnnotationHub
 	url = https://github.com/x-biosignal/PhysioAnnotationHub
+[submodule "PhysioAppKit"]
+	path = PhysioAppKit
+	url = https://github.com/x-biosignal/PhysioAppKit
 [submodule "PhysioClinStats"]
 	path = PhysioClinStats
 	url = https://github.com/x-biosignal/PhysioClinStats
@@ -86,6 +89,9 @@
 [submodule "PhysioRecipes"]
 	path = PhysioRecipes
 	url = https://github.com/x-biosignal/PhysioRecipes
+[submodule "PhysioRehab"]
+	path = PhysioRehab
+	url = https://github.com/x-biosignal/PhysioRehab
 [submodule "PhysioReport"]
 	path = PhysioReport
 	url = https://github.com/x-biosignal/PhysioReport
