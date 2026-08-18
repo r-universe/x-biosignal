@@ -101,6 +101,9 @@
 [submodule "PhysioTrial"]
 	path = PhysioTrial
 	url = https://github.com/x-biosignal/PhysioTrial
+[submodule "PhysioTwin"]
+	path = PhysioTwin
+	url = https://github.com/x-biosignal/PhysioTwin
 [submodule "PhysioWearable"]
 	path = PhysioWearable
 	url = https://github.com/x-biosignal/PhysioWearable
