@@ -41,6 +41,9 @@
 [submodule "PhysioEMG"]
 	path = PhysioEMG
 	url = https://github.com/x-biosignal/PhysioEMG
+[submodule "PhysioEcosystem"]
+	path = PhysioEcosystem
+	url = https://github.com/x-biosignal/PhysioEcosystem
 [submodule "PhysioExperiment"]
 	path = PhysioExperiment
 	url = https://github.com/x-biosignal/PhysioExperiment
